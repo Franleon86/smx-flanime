@@ -10,4 +10,6 @@ img{border: 0;max-width: 100%;height: auto;display: inline-block;vertical-align:
 .menu li {float:left; padding: 10px 15px;text-transform: uppercase;display: block;font-weight: 700;line-height: 50px;opacity: .5;}
 .clear-fix{clear: both;}
 #search{background-color: rgba(0,0,0,.2);border-radius: 20px;margin-bottom: 0;border: 0;padding-right: 50px;height: 40px;padding: 5px 15px;color: #9DA1A4;width: 200px;}
-.lupa{width: 40px; height: 40px;}
+.lupa{width: 55px; height: 55px;background-color: transparent;position: absolute;border: 0;border-radius: 5px;position: relative;}
+.login{background-color: rgba(0,0,0,.2);content:"\f007";border-radius: 5px;text-transform: uppercase;color: #fff;padding: 10px 15px;opacity: 100;border: 0}
+.login i{color: #01BCF3; margin-right: 10px;}
