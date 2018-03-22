@@ -1,0 +1,14 @@
+.ver { background-color: rgba(0,0,0,3);text-align: center;font-size: 14px;padding: 8px 15px;color: rgba(255,255,255,.5);font-weight: inherit; opacity: .7; }
+.top-img { position: absolute;width: 100%;top: 70px; }
+.top-img2 { width: 100%;background-color: #000000 ;opacity: .5; }
+.titulo-anime h2 { font-size: 25px; font-weight: 700; line-height: 30px;
+  display: inline-block; color: #000000; margin-left: 36%; margin-top: 11%; }
+.categoria { background-color: #01BCF3; border-color: #01BCF3; opacity: .5;
+  position: absolute; margin-top: 11.7%; margin-left: 46.2%; font-size: 10px;
+  font-weight: 700; line-height: 16px; width: 60px; text-align: center;
+  text-transform: uppercase; color: #FFFFFF; height: 16px; border-radius: 8px; }
+
+.subts { background-color: #000000; border-color: #01BCF3; opacity: .5;
+position: absolute; margin-top: 13%; margin-left: 36%; font-size: 10px;
+font-weight: 700; line-height: 16px; width: 60px; text-align: center;
+color: #FFFFFF; height: 16px; border-radius: 8px; }
